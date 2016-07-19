@@ -28,7 +28,9 @@
 * [语言相关](#语言相关)
   * [Android](#android)
   * [AWK](#awk)
-  * [C/C++](#cc)
+  * [C](#c)
+  * [C#](#c-sharp)
+  * [C++](#c-1)
   * [CoffeeScript](#coffeescript)
   * [Dart](#dart)
   * [Elasticsearch](#elasticsearch)
@@ -52,6 +54,7 @@
   * [R](#r)
   * [reStructuredText](#restructuredtext)
   * [Ruby](#ruby)
+  * [Rust](#rust)
   * [Scala](#scala)
   * [Scheme](#scheme)
   * [Shell](#shell)
@@ -92,6 +95,7 @@
 * [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
 * [Chrome 开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
 * [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
+* [Growth: 全栈增长工程师指南](https://github.com/phodal/growth-ebook)
 * [Grunt中文文档](http://www.gruntjs.net)
 * [Gulp 入门指南](https://github.com/nimojs/gulp-book)
 * [gulp中文文档](http://www.gulpjs.com.cn/docs/)
@@ -326,6 +330,11 @@
 * [新概念 C 语言教程](https://github.com/limingth/NCCL)
 
 
+### C Sharp
+
+* [精通C#(第6版) ](http://book.douban.com/subject/24827879/)
+
+
 ### C++
 
 * [100个gcc小技巧](https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md)
@@ -505,6 +514,7 @@
   * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
   * [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
 * React.js
+  * [Learn React & Webpack by building the Hacker News front page](https://github.com/theJian/build-a-hn-front-page)
   * [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
   * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
   * [React 入门教程](http://fraserxu.me/intro-to-react/)
@@ -600,6 +610,14 @@
 * [Ruby on Rails 实战圣经](https://ihower.tw/rails4/)
 * [Ruby 风格指南](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
 * [笨方法学 Ruby](http://lrthw.github.io)
+
+
+### Rust
+
+* [Rust 官方教程](https://github.com/KaiserY/rust-book-chinese)
+* [Rust 语言学习笔记](https://github.com/photino/rust-notes)
+* [RustPrimer](https://github.com/rustcc/RustPrimer)
+* [通过例子学习 Rust](https://github.com/rustcc/rust-by-example/)
 
 
 ### Scala
